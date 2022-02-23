@@ -1,0 +1,68 @@
+{
+	"movies": [
+		{
+			"id": "100",
+			"poster": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Incredibles_%282004_animated_feature_film%29.jpg",
+			"name": "Incredibles",
+			"rating": 8.1,
+			"trailer": "https://www.youtube.com/embed/-UaGUdNJdRQ",
+			"summary": "Forced to adopt a civilian identity and stuck in a white-collar job, Mr Incredible itches to get back into action. When he is lured into a trap by the evil Syndrome, his family contrives to save him."
+		},
+		{
+			"id": "101",
+			"poster": "https://lumiere-a.akamaihd.net/v1/images/p_insideout_19751_af12286c.jpeg?region=0%2C0%2C540%2C810",
+			"name": "Inside Out",
+			"rating": 8.1,
+			"trailer": "https://www.youtube.com/embed/yRUAzGQ3nSY",
+			"summary": "Eleven-year-old Riley moves to San Francisco, leaving behind her life in Minnesota. She and her five core emotions, Fear, Anger, Joy, Disgust and Sadness, struggle to cope with her new life."
+		},
+		{
+			"id": "102",
+			"poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg",
+			"name": "Up",
+			"rating": 8.2,
+			"trailer": "https://www.youtube.com/embed/pkqzFUhGPJg",
+			"summary": "Carl, an old widower, goes off on an adventure in his flying house in search of Paradise Falls, his wife's dream destination."
+		},
+		{
+			"id": "103",
+			"poster": "https://lumiere-a.akamaihd.net/v1/images/p_coco_19736_fd5fa537.jpeg?region=0%2C0%2C540%2C810",
+			"name": "Coco",
+			"rating": 8.4,
+			"trailer": "https://www.youtube.com/embed/Rvr68u6k5sI",
+			"summary": "Miguel pursues his love for singing in spite of his family's ban on music. He stumbles into the Land of the Dead, where he learns about his great-great-grandfather who was a legendary singer."
+		},
+		{
+			"id": "104",
+			"poster": "https://lumiere-a.akamaihd.net/v1/images/movie_poster_zootopia_866a1bf2.jpeg",
+			"name": "Zootopia",
+			"rating": 8.5,
+			"trailer": "https://www.youtube.com/embed/jWM0ct-OLsM",
+			"summary": "When Judy Hopps, a rookie officer in the Zootopia Police Department, sniffs out a sinister plot, she enlists the help of a con artist to solve the case in order to prove her abilities to Chief Bogo."
+		},
+		{
+			"id": "105",
+			"poster": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg?region=0%2C0%2C540%2C810",
+			"name": "Finding Nemo",
+			"rating": 9,
+			"trailer": "https://www.youtube.com/embed/9oQ628Seb9w",
+			"summary": "After his son gets abducted from the Great Barrier Reef and is dispatched to Sydney, Marlin, a meek clownfish, enlists the help of a forgetful fish and embarks on a journey to bring him home."
+		},
+		{
+			"id": "106",
+			"poster": "https://m.media-amazon.com/images/I/71IH5WQD5wL._SY550_.jpg",
+			"name": "Minions",
+			"rating": 6.4,
+			"trailer": "https://www.youtube.com/embed/P9-FCC6I7u0",
+			"summary": "Minions Kevin, Stuart and Bob decide to find a new master. They embark on a global trip and meet Scarlett Overkill, a female super-villain who recruits them and hatches a plan to take over the world."
+		},
+		{
+			"id": "107",
+			"poster": "https://play-lh.googleusercontent.com/10M4F-ok0cYTtDz7rEBFUK5WmXm0Tg-vnYhnWIrywcslsz9QgenIMFHOiupKLUNJ1zI",
+			"name": "Despicable Me",
+			"rating": 7.6,
+			"trailer": "https://www.youtube.com/embed/zzCZ1W_CUoI",
+			"summary": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father."
+		}
+	]
+}
